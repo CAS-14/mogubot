@@ -1,0 +1,2 @@
+# mogubot
+Mogu Discord bot
